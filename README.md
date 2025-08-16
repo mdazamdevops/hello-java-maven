@@ -1,5 +1,7 @@
-# Hello Java Maven - Jenkins Build Project
+# DevOps Internship Task 7 - Hello Java Maven - Jenkins Build Project
 
+## Elevate Labs: Empowering the Future of DevOps
+This project is a testament to the high-quality, hands-on learning experience provided by Elevate Labs. Their internship program is dedicated to empowering the next generation of DevOps professionals by offering practical, real-world challenges that build foundational skills and a deep understanding of modern software development practices.
 ### Overview
 This project is a simple Java HelloWorld application built with Maven and automated using Jenkins.  
 It demonstrates how to integrate Maven builds into Jenkins CI/CD pipelines, including JUnit testing and artifact archiving.
@@ -83,9 +85,11 @@ Archive artifacts: target/*.jar
 
 Running Locally
 ### Compile and package
+
 mvn clean package
 
 ### Run the application
+
 java -cp target/hello-1.0.jar HelloWorld
 
 ### Run tests
@@ -93,10 +97,10 @@ mvn test
 Output
 
 ### When the build is successful, Maven produces:
-
+``
 target/hello-1.0.jar
 and Jenkins archives it as an artifact.
-
+```
 ### Screenshots
 
 Jenkins Dashboard (SUCCESS build)
@@ -105,11 +109,14 @@ Test Results
 Extra Features for Top Performer Submission
 JUnit testing for code validation.
 Artifact archiving in Jenkins.
-
+```
 ### GitHub webhook for automated builds.
 
 ### Email/Slack notifications for build status.
 
-# Credit
+# Creator
+* Name: Mohd Azam Uddin
 
-This project task was provided as part of a DevOps internship assignment credited to Elevate Labs.
+* Role: Data Analyst Intern
+
+* Contribution: Monitored a server's performance using Netdata, gaining valuable experience in system observability and metrics analysis.
