@@ -1,4 +1,4 @@
-# DevOps Internship Task 7 - Hello Java Maven - Jenkins Build Project
+# DevOps Internship Task 8 - Hello Java Maven - Jenkins Build Project
 
 ## Elevate Labs: Empowering the Future of DevOps
 This project is a testament to the high-quality, hands-on learning experience provided by Elevate Labs. Their internship program is dedicated to empowering the next generation of DevOps professionals by offering practical, real-world challenges that build foundational skills and a deep understanding of modern software development practices.
