@@ -117,6 +117,6 @@ Artifact archiving in Jenkins.
 # Creator
 * Name: Mohd Azam Uddin
 
-* Role: Data Analyst Intern
+* Role: Devops Intern
 
 * Contribution: Monitored a server's performance using Netdata, gaining valuable experience in system observability and metrics analysis.
